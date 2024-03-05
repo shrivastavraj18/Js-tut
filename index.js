@@ -1,0 +1,11 @@
+console.time('Your code Took');
+console.log('Hello world');
+console.log(4+65);
+console.log(62);
+console.log(true);
+console.log([34,54,5,5]);
+console.log({raj: 'this', marks:47});
+console.table({raj: 'this', marks:47});
+console.warn('This is warning');
+console.timeEnd('Your code Took');
+console.error('This is a error');
